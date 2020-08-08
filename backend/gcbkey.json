@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "selinasapp",
+  "private_key_id": "164d7eb403395f126f62de9767f2869975485cef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDBK5E3kenoamUZ\nUzm/iMaE+XR6BQSj0rBOoLhDf75A+wEC1iT3roMEz5PTCUkm5gmqydnDvbDxBeWD\nHUtw3fIFJxkz6a2jS4RHZY3QJGY3jcyQOMWrya58IAnUfofXi4rHbmiOXLQENMSb\ngtwhiX1XrMNEN2QZBowU5yAEPQJ6AA5o/DO/VWHghDuUwCj3Qx8TlczPYEarffLV\nnENkTurMW60gv0GfblndCVtdM/Qwh37+IBbsLw157VQrWYgqwe7/GySxkRIWl1ib\ne5N9xEJj4udpFNS9KwSP57jTzTkbSxjWj8EAqsa0r4w/ROsrHKXbnz53oKaeTcST\nf0izTtDxAgMBAAECggEAAPR6L1AlW+TKwylKK8w9TwL8tG257CVqgbkBsDO9eQzE\noIL2g9L1Ct0L2gs9tVeFzLZawUD60vY4gEFw0goG3EepNDx/g0MoUEIMRW8oojWt\nQTlGoObKWgq+gbJucX5bHUlKcwm6ShsIrcwj0nafjANqo7eyYv1JTAEog1zZ2kiL\nlm524A21hzdd7+Cfi3XJ6/kjdSyCqN85yij7VoeMNQn5gD3DHsPv1L2SP+P0wAxO\nNKSu+0X7WXnPQmnCpbVo3BvwoES4am82DUWILINpPGuUJU5Lz7dYcFVsIRkDxMaA\n8bdFyRG75OhfMuvC62crV+KShV/zrMqBXxTNDoNJwQKBgQDmk5OimqqIszeACebQ\nioWUYm9jf0zf/7mv4R9kA4QXgeSWnaNqpo0Y8dQA2av9Y22WL6Xe44Ldx5q9Ysum\nGKJOnGUZiaHFW5jAkL4tyd/k2f1oB5G2iIfbjccCoD8g1oCKPC1fTP3R7NVvlefE\nDhw4BNRuTmASYEhNWGJeXQj6tQKBgQDWeCIA7now8IsH/cOtsTe1i/d0ILGOqkbm\nNKsYpzQereCJsxkvDJaCwQOVaIEjC3oan/KdNCiInnGc7aymcOS1Tx3CTMv+Ysuk\nTXBnP0gedkovq29Fs7kpQwcP3VFcYpnKepuqH4Mbx6RMoLQxQUbzU7LJ4cR9iCaF\nx55i+liWzQKBgAPGbMdfwuUEEieNgfLuIavBRNObNPYB6NdhVzM6/4GnBcgVgqRv\nX6YF55Ov/KnkY9nuo8eXcAATkYwCPxVUF+wzkVAuubBShJi6hfKX+It1qjl2zkLv\nz1Gf6582YnI2MNqSi6egyhMSzpfKG4ZRONMN+TBpJheG7ggeJ1YmLcx1AoGAe1Ln\nEqwO3VdkSvsT6yvNgfpzF3a5QvUNAdDlVa7H3KBVTjkLUS+m2JcObXqDT1iJJQg2\nZUkZyb16TSeqMKcYDF3rGdA5ORUsTlUtPmF4IfQZIqIswOLgpSZiyC+WWk5karbo\nDgJCzNWW121NUEld+At38nh9GUYSCLlJjVaxXD0CgYAVpnGe+bzssm11SxHuv4xI\nu+kszMwuYHNs4wUviLOUVeFXJGdlARE/9+cYKR+ku31eiNYtikiAig/RmMxeBiZ0\nWDyZmcXGhNKtOJlqwha63qFXPPbEgtpJ0fKGMO2q2/gOX7D2hPWZ0qmYzHVuzzFm\ncOS+3LIiJq8eZEdfewOT2Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "grocery-shopping-app@selinasapp.iam.gserviceaccount.com",
+  "client_id": "107835561022038892494",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/grocery-shopping-app%40selinasapp.iam.gserviceaccount.com"
+}
